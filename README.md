@@ -3,7 +3,8 @@
 - 🌱 In addition to my academic pursuits, I'm actively engaged in the art of business, particularly within the tea industry.
 - 💞️ Join me on my journey as I merge my academic learnings with real-world experiences, striving to make a meaningful impact in both realms. Let's connect and innovate together! 🌱✨
 
-
+# 💫 About Me:
+Hello there! 👋 I'm an undergraduate student at Rajarata University of Sri Lanka, passionately delving into the world of IT and honing my skills. In addition to my academic pursuits, I'm actively engaged in the art of business, particularly within the tea industry. Join me on my journey as I merge my academic learnings with real-world experiences, striving to make a meaningful impact in both realms. Let's connect and innovate together! 🌱✨
 
 
 ## 🌐 Socials:
@@ -22,18 +23,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shina98&limit=5&theme=alduin&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Shina98&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-Shina98/Shina98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
